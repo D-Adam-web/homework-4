@@ -223,7 +223,7 @@ footer {
         /* 📍 Свойства для расположения элементов и отступа между ними */
         flex-direction: column-reverse;
         justify-content: flex-start;
-        gap: 40px;
+        gap: 60px;
     }
 
     .main-image {
@@ -238,7 +238,7 @@ footer {
 
     .about-section {
     /* 📍 Внутренний отступ сверху и снизу */
-    padding: 0 20px;
+    padding: 60px 0;
     }
 }
 
@@ -270,6 +270,6 @@ footer {
     .about-section .wrapper,
     .info-wrapper {
         /* 📍 Отступ между изображением и блоком с текстом */
-        gap: 16px;
+        gap: 50px;
     }
 }
